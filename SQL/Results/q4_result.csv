@@ -1,0 +1,6 @@
+price_bucket,product_count
+1000 - 5000,610
+200 - 1000,494
+5000 - 20000,226
+Above 20000,98
+Under 200,37
